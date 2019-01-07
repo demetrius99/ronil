@@ -88,7 +88,7 @@ header .profile-image:hover {
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
-  max-width: 500px;
+  max-width: 600px;
   text-align: left;
   background: #fff;
   border-bottom: 4px solid #ccc;
@@ -169,7 +169,7 @@ a.social:hover {
   
   .flex {
       display: flex;
-      max-width: 1400px;
+      max-width: 1200px;
       justify-content: space-around;
       margin: 0 auto;
   }
@@ -179,7 +179,7 @@ a.social:hover {
   }
 
   .nav {
-    max-width: 1200px;
+    max-width: 1300px;
   }
 
   .nav .name {
